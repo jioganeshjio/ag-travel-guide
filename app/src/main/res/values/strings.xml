@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AGTG</string>
+    <string name="ag_travel_guide">AG TRAVEL GUIDE</string>
+    <string name="welcome_to_ag_travel_guide">Welcome to AG Travel Guide</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="email_not_verfied">Email Not Verfied !</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="verify_now">Verify Now</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="new_here_create_account">New Here ? Create Account</string>
+    <string name="login">Login</string>
+    <string name="save">Save</string>
+    <string name="lorem">Nandi Hills, or Nandidurg, is a hill fortress in the south Indian state of Karnataka. Tipu Sultan Fort, a summer retreat of the namesake 18th-century ruler, features stone carvings and wall paintings. Prisoners are said to have been thrown to their death from Tipu’s Drop, now known for its panoramic views. Local Hindu temples include the hilltop Yoga Nandeeshwara Temple, guarded by a huge statue of a bull (nandi).</string>
+    <string name="country">Country</string>
+    <string name="_1000_m">1000 m</string>
+    <string name="country_name">India</string>
+    <string name="elevation">Elevation</string>
+    <string name="overview">Overview</string>
+    <string name="name">Nandi hills</string>
+    <string name="detail">Detail</string>
+    <string name="description">Description</string>
+    <string name="place_name">Place Name</string>
+    <string name="gotop">Go To Your Destination</string>
+    <string name="india">India</string>
+    <string name="_1478m">1478m</string>
+    <string name="details">Details</string>
+    <string name="name1">Name</string>
+
+
+    <string name="nepal">Nepal</string>
+
+    <string name="name2">Name2</string>
+    <string name="list_mode">List Mode</string>
+    <string name="grid_mode">Grid Mode</string>
+    <string name="cardview_mode">CardView Mode</string>
+
+    <string name="mountaint_name">Place Name</string>
+    <string name="_8_000_m">8,000 m</string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328249955055",
+    "project_id": "agtravelguidetest-45c84",
+    "storage_bucket": "agtravelguidetest-45c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328249955055:android:72cfa9af9dbade401f811a",
+        "android_client_info": {
+          "package_name": "com.ag_travel_guide_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328249955055-qdd0aqk2jp3oteg7u137md6krn8989fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmdkAMOr9UZJSTVElJawRRTPdtBKpNHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328249955055-qdd0aqk2jp3oteg7u137md6krn8989fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
